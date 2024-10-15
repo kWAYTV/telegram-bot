@@ -7,11 +7,11 @@
   "imports": {
     "#root/*": "./build/src/*"
   },
-  "author": "deptyped <deptyped@gmail.com>",
+  "author": "kway <contact@kway.club>",
   "license": "MIT",
   "engines": {
     "node": ">=20.0.0",
-    "npm": ">=8.0.0"
+    "pnpm": ">=8.0.0"
   },
   "scripts": {
     "lint": "eslint .",
