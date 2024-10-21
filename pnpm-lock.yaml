@@ -15,8 +15,8 @@ importers:
         specifier: 1.4.1
         version: 1.4.1(grammy@1.27.0)
       '@grammyjs/i18n':
-        specifier: 1.0.2
-        version: 1.0.2(grammy@1.27.0)
+        specifier: 1.1.2
+        version: 1.1.2(grammy@1.27.0)
       '@grammyjs/parse-mode':
         specifier: 1.10.0
         version: 1.10.0(grammy@1.27.0)
@@ -387,8 +387,8 @@ packages:
     peerDependencies:
       grammy: ^1.20.1
 
-  '@grammyjs/i18n@1.0.2':
-    resolution: {integrity: sha512-F/6jBB+afp8N3aXLmxTqdlffqD20EZBMFrPiVQNz6YoiKvjAe4Q8rSrU0Y4eQXkUj4e+UNl7yvYvvPSa1h4guw==}
+  '@grammyjs/i18n@1.1.2':
+    resolution: {integrity: sha512-PcK06mxuDDZjxdZ5HywBhr+erEITsR816KP4DNIDDds1jpA45pfz/nS9FdZmzF8H6lMyPix3mV5WL1rT4q+BuA==}
     engines: {node: '>=12'}
     peerDependencies:
       grammy: ^1.10.0
@@ -2301,7 +2301,7 @@ snapshots:
       abort-controller: 3.0.0
       grammy: 1.27.0
 
-  '@grammyjs/i18n@1.0.2(grammy@1.27.0)':
+  '@grammyjs/i18n@1.1.2(grammy@1.27.0)':
     dependencies:
       '@deno/shim-deno': 0.18.2
       '@fluent/bundle': 0.17.1
